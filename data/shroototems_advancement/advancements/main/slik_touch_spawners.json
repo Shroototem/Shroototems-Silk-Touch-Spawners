@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spawner"
+        },
+        "title": {
+            "text": "Silk Touch Spawners",
+            "color": "white",
+            "bold": false,
+            "italic": false
+        },
+        "description": {
+            "text": "Use silk_touch to pick up spawners and right-click spawner with spawn_egg from rare drops",
+            "color": "green",
+            "bold": false
+        },
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "parent": "shroototems_advancement:main/root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

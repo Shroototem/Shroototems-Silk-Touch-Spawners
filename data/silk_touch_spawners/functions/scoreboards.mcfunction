@@ -1,0 +1,1 @@
+scoreboard objectives add SDP_SpawnerPlace minecraft.used:minecraft.spawner
